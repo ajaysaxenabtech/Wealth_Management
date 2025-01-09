@@ -1,4 +1,3 @@
-Here’s an article draft suitable for LinkedIn, keeping the character limit in mind:
 
 ---
 
