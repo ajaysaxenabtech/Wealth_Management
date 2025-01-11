@@ -1,5 +1,5 @@
 
-Yes, financial institutions are indeed interested in **AI agents** that can work **directly on their data in private cloud environments or on-premises setups**. This approach allows them to maintain control over their data while leveraging the power of AI for tasks like data preparation, analytics, and decision-making. Here's how this works and how APIs fit into the picture:
+Financial institutions are interested in **AI agents** that can work **directly on their data in private cloud environments or on-premises setups**. This approach allows them to maintain control over their data while leveraging the power of AI for tasks like data preparation, analytics, and decision-making. Here's how this works and how APIs fit into the picture:
 
 ---
 
