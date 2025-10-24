@@ -1,5 +1,10 @@
 
 ---
+```
+Search deeply through the fundamentals and macro economic factors e.g. Economic, Industrial, Political and others Factors at micro as well as macro level contributing to intrinsic value of NAV. After collecting those information, apply 70% weight to fundamentals  and 30% weight to Technical analyses of this sector,  can you tell me precisely that if it is the right time to make entry for 30 to 60days horizon or exit/hold incase already invested for approximate amount INR 5-10 lacs into consideration ? Generate the output in tabular form and add the name(Highlighted) of the fund in the beginning so that I could compile it with other analyses.
+```
+------
+
 
 
 I have to know the next 5 days movement forecast for the below funds. Please generate the propmpt to ask  
